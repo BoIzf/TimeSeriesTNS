@@ -1,6 +1,4 @@
-<p>
-    <img src="relativePath/file.png" width="220" height="240"/>
-</p>
+![ ](D:/JupyterFile/TimeSeriesTNS_Project/logo.png)
 <div align="center"> <h1 align="center"> Прогнозирование объемов потребления электроэнергии </div> </p>
 
 ---
