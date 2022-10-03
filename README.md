@@ -41,5 +41,5 @@
 ---
 
 ### Контакты
-BoIzf (Izofatov Boris) - izf_aw@mail.ru
+BoIzf (Izofatov Boris) - izf_aw@mail.ru  
 Ссылка на проект: https://github.com/BoIzf/TimeSeriesTNS
