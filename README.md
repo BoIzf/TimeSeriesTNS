@@ -1,4 +1,4 @@
-![ ](D:/JupyterFile/TimeSeriesTNS_Project/logo.png)
+<img src="images/logo.png" alt="Logo" width = "100%" height="100%">
 <div align="center"> <h1 align="center"> Прогнозирование объемов потребления электроэнергии </div> </p>
 
 ---
@@ -41,5 +41,5 @@
 ---
 
 ### Контакты
-BoIzf (Izofatov Boris) - izf_aw@mail.ru
+BoIzf (Izofatov Boris) - izf_aw@mail.ru  
 Ссылка на проект: https://github.com/BoIzf/TimeSeriesTNS
